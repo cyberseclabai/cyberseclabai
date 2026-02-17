@@ -148,38 +148,11 @@ I'm also the **founder of [CyberSecLab](https://youtube.com/@cyberseclabai)** (1
 </p>
 
 ---
-
-## 📌 Top Repositories
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/cyberseclabai/Trellix-ePO-Self-Signed-SSL-Certificate-Guide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberseclabai&repo=Trellix-ePO-Self-Signed-SSL-Certificate-Guide&theme=tokyonight&hide_border=true" width="100%" alt="Trellix ePO SSL Guide"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/cyberseclabai/cyberseclabai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberseclabai&repo=cyberseclabai&theme=tokyonight&hide_border=true" width="100%" alt="Profile Repo"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-> 💡 _Check my [Repositories tab](https://github.com/cyberseclabai?tab=repositories) for more projects and security tools!_
-
----
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberseclabai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberseclabai&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 </p>
-
 ---
 
 ## 🔭 Currently Working On
@@ -276,8 +249,6 @@ A professional cybersecurity platform with **20+ free security tools** — no in
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=100&section=footer" width="100%"/>
 </p>
-
-<p align="center"><i>⭐ If you find my work helpful, give my repos a star!</i></p>
