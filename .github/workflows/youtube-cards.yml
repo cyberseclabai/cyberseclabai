@@ -1,0 +1,31 @@
+name: YouTube Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCw9jM8qVQ3af3UhgU1scQGA
+          background_color: "#1a1b27"
+          title_color: "#70a5fd"
+          stats_color: "#8b949e"
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#0d1117", "stats_color": "#586069" }'
+          theme_context_dark: '{ "background_color": "#1a1b27", "title_color": "#70a5fd", "stats_color": "#8b949e" }'
+          max_videos: 6
+          card_width: 250
+          border_radius: 5
+          max_title_lines: 1
+          comment_tag_name: "YOUTUBE-CARDS"
+          commit_message: "🎬 Auto-update: YouTube video cards"
+          author_name: "YouTube Cards Bot"
+          author_email: "actions@github.com"
