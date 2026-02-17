@@ -21,11 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **results-driven Cybersecurity Professional** with **11+ years** of experience spanning IT infrastructure, endpoint security, and enterprise consulting. I specialize in the **Trellix security ecosystem** — ePO, ENS, EDR, DLP, TIE & DXL — with **9 years of deep hands-on expertise**.
-
-Currently a **Senior Professional Services Consultant** at a top-tier U.S. cybersecurity OEM, I deliver enterprise-grade security for global clients across **BFSI, government, and corporate sectors** — managing **10,000 to 500,000+ endpoints**.
-
-I'm also the **founder of [CyberSecLab](https://youtube.com/@cyberseclabai)** (130+ tutorial videos) and **[cybersecops.dev](https://cybersecops.dev)** — a platform with **20+ free security tools** for security professionals worldwide.
+I'm a cybersecurity professional securing enterprises and educating the community in my free time. With 11+ years of progressive experience across IT infrastructure, endpoint security, and enterprise consulting, I specialize in the endpoint security and threat analysis product ecosystem — delivering large-scale security implementations for global clients across BFSI, Government, and Corporate sectors. Through CyberSecLab, I've built a platform of technical tutorials helping security professionals worldwide.
 
 ---
 
@@ -212,8 +208,6 @@ A professional cybersecurity platform with **20+ free security tools** — no in
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/API_Endpoint_Tester-0A66C2?style=flat-square&logo=fastapi&logoColor=white" alt="API Endpoint Tester"/></a>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/Password_Analyzer-0A66C2?style=flat-square&logo=lastpass&logoColor=white" alt="Password Analyzer"/></a>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/JWT_Decoder-0A66C2?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Decoder"/></a>
-</p>
-<p>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/SSL/TLS_Checker-0A66C2?style=flat-square&logo=letsencrypt&logoColor=white" alt="SSL TLS Checker"/></a>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/Security_Header_Analyzer-0A66C2?style=flat-square&logo=mozilla&logoColor=white" alt="Security Header Analyzer"/></a>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/Timestamp_Converter-0A66C2?style=flat-square&logo=clockify&logoColor=white" alt="Timestamp Converter"/></a>
@@ -221,8 +215,6 @@ A professional cybersecurity platform with **20+ free security tools** — no in
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/DLP_Classification-0A66C2?style=flat-square&logo=shield&logoColor=white" alt="DLP Classification"/></a>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/Ransomware_Protection-0A66C2?style=flat-square&logo=bitwarden&logoColor=white" alt="Ransomware Protection"/></a>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/Expert_Rules-0A66C2?style=flat-square&logo=opslevel&logoColor=white" alt="Expert Rules"/></a>
-</p>
-<p>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/Snort_IPS_Rules-0A66C2?style=flat-square&logo=snort&logoColor=white" alt="Snort IPS Rules"/></a>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/Defensive_Playbook_Creator-0A66C2?style=flat-square&logo=ansible&logoColor=white" alt="Defensive Playbook Creator"/></a>
   <a href="https://cybersecops.dev"><img src="https://img.shields.io/badge/CVE_Updated_DB-0A66C2?style=flat-square&logo=cve&logoColor=white" alt="CVE Updated DB"/></a>
@@ -235,7 +227,7 @@ A professional cybersecurity platform with **20+ free security tools** — no in
 
 ## 📬 Let's Connect & Collaborate!
 
-<p align="center">
+<p align="left">
   <a href="https://youtube.com/@cyberseclabai"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://linkedin.com/in/rajesh-sharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/cyberseclabai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
