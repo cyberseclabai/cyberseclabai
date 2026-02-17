@@ -19,8 +19,7 @@
 
 ---
 ## 🧑‍💻 About Me
-Cybersecurity professional with 11+ years securing enterprises across IT infrastructure, endpoint security, and threat analysis—delivering large-scale implementations for BFSI, Government, and Corporate clients.
-Creator of CyberSecLab, sharing hands-on tutorials and resources to educate and empower the global security community.
+Cybersecurity engineer focused on enterprise endpoint security, EDR/XDR, and threat detection.Running CyberSecLab to share hands-on security resources.
 ---
 
 ## 🤖 AI Tools I Use
@@ -28,50 +27,17 @@ Creator of CyberSecLab, sharing hands-on tutorials and resources to educate and 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
   <img src="https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
----
-## 🧰 Deployment Skills & Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/>
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AD"/>
-  <img src="https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware"/>
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Hyper-V"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/Snort_IDS-FF0000?style=flat-square&logo=snort&logoColor=white" alt="Snort"/>
-  <img src="https://img.shields.io/badge/YARA-6C757D?style=flat-square&logo=virustotal&logoColor=white" alt="YARA"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/ServiceNow-62B746?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
-
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberseclabai&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 </p>
----
-
-## 🔭 Currently Working On
-
-- 🎬 **Trellix ePO Masterclass Series** — comprehensive YouTube tutorial series for enterprise ePO administration
-- 🔍 **SIEM Exploration** — evaluating and building content around modern SIEM solutions
-- 🛠️ **New Security Tools** — developing and publishing open-source security utilities on [cybersecops.dev](https://cybersecops.dev)
-- 📚 **CyberSecLab Community Growth** — expanding educational content and global reach
-
 ---
 
 ## 🎬 YouTube – CyberSecLab
